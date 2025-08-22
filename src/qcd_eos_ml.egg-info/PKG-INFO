@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: qcd-eos-ml
+Version: 0.1.0
+Summary: End-to-end pipeline for QCD EoS phase classification and figure generation (Python)
+Author: Krishna Aryal
+Requires-Python: >=3.9
+Requires-Dist: pandas>=2.0
+Requires-Dist: numpy>=1.23
+Requires-Dist: scikit-learn>=1.2
+Requires-Dist: matplotlib>=3.7
+Requires-Dist: joblib>=1.3
+Requires-Dist: pyyaml>=6.0

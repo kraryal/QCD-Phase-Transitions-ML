@@ -1,5 +1,0 @@
-[console_scripts]
-qcd-eval = qcd_eos_ml.cli:eval_cli
-qcd-figures = qcd_eos_ml.cli:figures_cli
-qcd-predict = qcd_eos_ml.cli:predict_cli
-qcd-train = qcd_eos_ml.cli:train_cli

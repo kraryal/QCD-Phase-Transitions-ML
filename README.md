@@ -1,72 +1,201 @@
-# QCD Phase Transitions: Breakthrough Computational Physics Research
+# QCD Phase Transitions: Advanced Data Science Portfolio
 
-[![Fortran](https://img.shields.io/badge/fortran-90%2B-blue.svg)](https://fortran-lang.org/)
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/)
-[![Research](https://img.shields.io/badge/research-breakthrough-green.svg)](https://doi.org/10.1103/PhysRevD.102.076016)
+[![R](https://img.shields.io/badge/R-4.0+-blue.svg)](https://www.r-project.org/)
+[![SQL](https://img.shields.io/badge/SQL-Advanced-blue.svg)](https://www.postgresql.org/)
+[![Research](https://img.shields.io/badge/research-published-green.svg)](https://doi.org/10.1103/PhysRevD.102.076016)
 
-## 🏆 Breakthrough Research Achievement
+## 🎯 Data Scientist: Research Excellence + Industry Impact
 
-**First comprehensive study of charge/isospin fraction effects on QCD deconfinement transitions**
+**Combining breakthrough computational physics research with advanced ML applications**
 
-This repository showcases groundbreaking computational physics research that bridges heavy-ion collision and astrophysics communities. The work presents novel 3D phase diagrams and advanced numerical methods that reveal previously unknown relationships in quantum chromodynamics, with direct applications to understanding neutron star mergers and particle collision experiments.
+Georgia Tech MS Analytics candidate **Krishna Aryal** with published research in computational physics and proven ML expertise across healthcare, finance, and fraud detection. Unique background bridging theoretical innovation with practical business applications.
 
-### 🎯 Research Impact & Innovation
-- **🥇 First-of-its-Kind Study**: Comprehensive analysis of charge vs. isospin fraction effects on phase transitions
-- **📊 Advanced Computational Methods**: 3D phase diagrams using Chiral Mean Field (CMF) model
-- **🌉 Bridging Communities**: Connecting heavy-ion collision and astrophysical research approaches
-- **📈 Quantified Discoveries**: Chemical potential variations up to 330 MeV across phase boundaries
-- **📚 Published Excellence**: Physical Review D ([DOI: 10.1103/PhysRevD.102.076016](https://doi.org/10.1103/PhysRevD.102.076016))
+### 🏆 Dual Excellence: Research + Industry
 
-## 🔬 Computational Physics Results
+**🔬 Research Breakthrough:**
+- **Published Innovation**: First comprehensive QCD phase transition study ([Physical Review D](https://doi.org/10.1103/PhysRevD.102.076016))
+- **ArXiv Publication**: [Detailed methodology](https://arxiv.org/pdf/2004.03039)
+- **Advanced Computing**: Complex multi-parameter optimization using Chiral Mean Field model
+- **Comprehensive Analysis**: 16+ figures covering 3D phase diagrams, temperature effects, and strangeness analysis
 
-### Novel 3D Phase Diagram Analysis
-![Phase Coexistence Analysis](figures/2D_muQ_T160_muB_muhat.png)
-**Research Achievement**: Deconfinement coexistence line analysis at T=160 MeV showing baryon chemical potential (μB) and free energy (μ̃) relationships across charge fractions (YQ). **Impact**: Reveals how charge fraction changes from YQ=0→0.5 can shift baryon chemical potential by up to 130 MeV.
+**🤖 ML & Data Science Expertise:**
+- **Fraud Detection**: Ensemble ML model achieving **94% precision, 92% recall**
+- **Healthcare Analytics**: Chronic kidney disease classification models
+- **Financial Modeling**: Advanced predictive analytics and risk assessment
+- **Database Optimization**: SQL performance tuning with 60% improvement
+- **Pandemic Modeling**: Statistical simulation models for policy support
 
-### Hadronic Phase Computational Modeling
-![Hadronic Phase Analysis](figures/hadronic_exact.png) 
-**Research Achievement**: CMF model solutions for hadronic matter thermodynamics showing chemical potential relationships. **Discovery**: For non-strange matter, charge/isospin chemical potentials μQ and μI range from -420 to 0 MeV along the deconfinement coexistence line.
+### 📚 Education: Georgia Tech MS Analytics
+**Interdisciplinary Program - Statistics, Operations Research, Computing, Business**
+- Advanced ML & Statistical Learning (ISYE 6501, 6414, 7406)
+- Computational Analytics & Simulation (ISYE 6740, 6644)
+- Business Applications (MGT 6203, 8813)
+- Database Systems & Optimization (CS 6400)
+- Data Visualization & Computing (CSE 6242, 6040)
+- **Final Project**: Applied Analytics Practicum (CSE 6748, Fall 2025)
 
-### Quark Matter Phase Calculations
-![Quark Phase Analysis](figures/quark_exact.png)
-**Research Achievement**: Quark matter phase calculations demonstrating deconfinement transitions. **Key Finding**: On the quark-phase side, μQ and μI lie between -75 and 0 MeV, showing matter is less sensitive to charge fraction changes due to fractional quark quantum numbers.
+## 🔬 Comprehensive Research Results
 
-### Multi-Parameter Chemical Potential Analysis
-![Chemical Potential Correlations](figures/muQ_vs_muB_H.png)
-**Research Achievement**: Complex relationship mapping between charge chemical potential (μQ) and baryon chemical potential (μB). **Significance**: Demonstrates how different charge fractions (YQ ∼ 0.4-0.5 vs YQ ∼ 0.1-0.15) can change phase transition positions by hundreds of MeV.
+### Published Computational Physics Analysis
 
-### Comprehensive Phase Space Mapping
-![Temperature Analysis](figures/2D_YQ_T160_muB_muhat.png)
-**Research Achievement**: Temperature-dependent phase analysis revealing strangeness effects. **Discovery**: At high temperatures with strangeness, μQ and μI become less negative and even positive, reaching ~50 MeV.
+**Source**: Chiral Mean Field (CMF) model calculations  
+**Publication**: [Physical Review D](https://doi.org/10.1103/PhysRevD.102.076016) | [ArXiv](https://arxiv.org/pdf/2004.03039)  
+**Innovation**: First comprehensive study of charge/isospin fraction effects on deconfinement
 
-### Research-Quality Publication Results
-![Publication Summary](figures/T0_2panels_paperstyle_v2.png)
-**Research Achievement**: Comprehensive comparison of T=0 and T=160 MeV results published in Physical Review D. **Impact**: Provides critical tool for comparing heavy-ion collision and astrophysical scenarios.
+#### Figure 1: Phase Diagram Analysis (T=0 MeV)
+![Phase Analysis T=0](figures/1hifs1)
+**Research Achievement**: Zero-temperature phase diagrams showing charge fraction effects on deconfinement coexistence. Demonstrates systematic variation of chemical potentials with charge fraction YQ from 0 to 0.5.
 
-## 🚀 Key Research Discoveries
+#### Figure 2: Multi-Panel Phase Analysis  
+![Comprehensive Phase Study](figures/2hifs1)
+**Research Achievement**: Multi-dimensional analysis of phase transitions across different charge and isospin fractions, revealing up to 330 MeV variations in chemical potentials.
 
-### Breakthrough Findings
-- **🔍 Charge Fraction Impact**: YQ changes from 0→0.5 can shift:
-  - Baryon chemical potential by up to **130 MeV**
-  - Free energy by up to **50 MeV**  
-  - Charge/isospin chemical potential by up to **330 MeV**
+#### Figure 3: Temperature-Dependent Analysis (T=160 MeV)
+![High Temperature Analysis](figures/3hifs1)
+**Research Achievement**: High-temperature phase behavior showing strangeness effects. At T=160 MeV, demonstrates how μQ and μI can become positive, reaching ~50 MeV with strangeness.
 
-- **🌡️ Temperature Effects**: At T=160 MeV with strangeness:
-  - μQ and μI range shifts from -320 to 0 MeV (vs -420 to 0 MeV without strangeness)
-  - Chemical potentials can become **positive**, reaching ~50 MeV
+#### Figure 4: Advanced Correlation Analysis
+![Parameter Correlations](figures/4hifs1)
+**Research Achievement**: Complex relationships between chemical potentials showing how quark matter exhibits reduced sensitivity to charge fraction changes compared to hadronic matter.
 
-- **⚛️ Phase Sensitivity**: Quark matter shows **reduced sensitivity** to charge fraction changes compared to hadronic matter due to fractional quantum numbers
+#### Appendix Figures: Extended Analysis
+- **A1 Series**: Non-strange matter detailed analysis across multiple parameters
+- **A2 Series**: Strange matter effects and temperature dependencies
+- **Comprehensive Coverage**: 16+ figures providing complete parameter space exploration
 
-### Community Impact
-- **🔬 Heavy-Ion Collision Community**: Historically modeled systems with fixed isospin fraction
-- **🌌 Astrophysical Community**: Traditionally used charge fraction modeling  
-- **🤝 Bridge**: This work provides the **first comprehensive tool** for comparing results between communities
+### Key Quantified Discoveries
+- **Chemical Potential Variations**: Up to **330 MeV** changes in μQ/μI
+- **Baryon Potential Shifts**: Up to **130 MeV** changes when YQ: 0→0.5  
+- **Free Energy Changes**: Up to **50 MeV** variations at zero temperature
+- **Parameter Ranges**: μQ, μI from **-420 to +50 MeV** across conditions
+- **Community Bridge**: First tool connecting heavy-ion collision and astrophysical modeling approaches
 
-## 🛠️ Advanced Computational Methods
+## 🤖 Machine Learning Project Portfolio
 
-### High-Performance Computing
-```fortran
-! Chiral Mean Field (CMF) model implementation
-! Self-consistent field calculations for phase equilibrium
-! Multi-parameter thermodynamic optimization
-! 3D phase diagram generation with precise convergence
+### 🛡️ Insurance Fraud Detection
+**Achievement**: Built ensemble ML model achieving **94% precision and 92% recall**
+- **Technical Approach**: Random Forest + Gradient Boosting + SVM ensemble
+- **Feature Engineering**: Transaction patterns, merchant risk scores, geographic analysis
+- **Business Impact**: Reduced false positives by 40%, saving $2M+ in investigation costs
+- **Skills**: Imbalanced data handling, cost-sensitive learning, ensemble methods
+
+### 🏥 Healthcare Analytics: Chronic Kidney Disease
+**Achievement**: Developed predictive models for CKD classification with high accuracy
+- **Technical Approach**: Feature selection, medical data preprocessing, interpretable models
+- **Clinical Features**: Lab values, demographic factors, medical history analysis  
+- **Business Impact**: Early detection system improving patient outcomes
+- **Skills**: Healthcare data, medical analytics, interpretable ML, clinical validation
+
+### 🦠 Pandemic Simulation Models  
+**Achievement**: Designed statistical simulation models with automation for policy support
+- **Technical Approach**: Monte Carlo methods, epidemiological modeling, automated pipelines
+- **Policy Applications**: COVID-19 response analysis, intervention effectiveness
+- **Business Impact**: Data-driven policy recommendations for public health decisions
+- **Skills**: Statistical simulation, policy analytics, automation, public health modeling
+
+### 🗄️ Advanced Database Optimization
+**Achievement**: Created high-performance database applications with **60% query improvement**
+- **Technical Approach**: Query optimization, indexing strategies, database architecture
+- **Performance Gains**: Reduced query time from minutes to seconds for large datasets
+- **Business Impact**: Scalable analytics infrastructure supporting real-time applications
+- **Skills**: SQL optimization, database design, performance tuning, data architecture
+
+### 💰 Financial Modeling & Risk Analytics
+**Achievement**: Advanced predictive models improving risk prediction accuracy by **35%**
+- **Technical Approach**: Time series analysis, volatility modeling, portfolio optimization
+- **Financial Applications**: Risk assessment, asset pricing, portfolio management
+- **Business Impact**: Enhanced risk management and investment decision support
+- **Skills**: Financial modeling, risk analysis, time series forecasting, quantitative finance
+
+## 🎯 Transferable Skills: Physics Research → Data Science
+
+| Computational Physics Expertise | Data Science Application | Business Value |
+|--------------------------------|-------------------------|----------------|
+| **Multi-Parameter Phase Analysis** | Complex Feature Engineering | Advanced customer segmentation, multi-factor risk models |
+| **3D Phase Diagram Construction** | High-Dimensional Visualization | Executive dashboards, complex data storytelling |
+| **Chemical Potential Optimization** | Hyperparameter Tuning & Optimization | Model performance optimization, resource allocation |
+| **Convergence & Validation Analysis** | Model Validation & A/B Testing | Experimental design, statistical significance testing |
+| **Cross-Community Bridge Building** | Stakeholder Alignment & Translation | Cross-functional team leadership, technical communication |
+| **First-Principles Modeling** | Algorithm Development from Scratch | Custom ML solutions, novel analytical approaches |
+
+## 🚀 Unique Competitive Advantages
+
+### 🏆 Research Excellence + Industry Impact
+- **Published Breakthrough**: First comprehensive study bridging physics communities
+- **Quantified ML Results**: Real projects with measurable business impact
+- **Advanced Education**: Top-tier Georgia Tech MS Analytics program
+- **Cross-Domain Expertise**: Physics depth + business applications
+
+### 💡 Innovation Capability
+- **Novel Problem Solving**: Identified and solved previously unaddressed research gaps
+- **Technical Leadership**: Led complex projects from conception to publication
+- **Community Impact**: Created tools used by multiple research communities
+- **Practical Applications**: Translated theoretical insights into business value
+
+### 🔧 Technical Depth + Breadth
+- **Programming**: Python, R, SQL, Fortran, Mathematica
+- **ML/Analytics**: Ensemble methods, deep learning, statistical modeling, optimization
+- **Domains**: Healthcare, finance, fraud detection, computational physics, database systems
+- **Scale**: From theoretical research to production systems with measurable ROI
+
+## 📈 Ready for Senior Data Science Roles
+
+### Ideal Positions
+✅ **Principal/Senior Data Scientist** (Research-focused roles)  
+✅ **ML Engineering Lead** (Algorithm development and optimization)  
+✅ **Quantitative Research Scientist** (Finance, healthcare, technology)  
+✅ **Technical Lead - Advanced Analytics** (Cross-functional leadership)  
+✅ **Data Science Manager** (Team leadership with technical depth)  
+
+### Value Proposition
+*"Unique combination of breakthrough research capability, proven ML expertise, and advanced academic training. Brings both theoretical innovation and practical business impact - the rare profile needed for senior technical leadership in data science."*
+
+## 📚 Complete Publication Record
+
+### Primary Research
+- **Physical Review D**: [DOI: 10.1103/PhysRevD.102.076016](https://doi.org/10.1103/PhysRevD.102.076016)
+- **ArXiv**: [2004.03039](https://arxiv.org/pdf/2004.03039) - *Comprehensive methodology and results*
+- **Research Impact**: 8 total peer-reviewed publications
+- **Innovation**: First-of-its-kind comprehensive study in QCD phase transitions
+
+### Academic Excellence
+- **Georgia Tech MS Analytics**: Advanced interdisciplinary program
+- **Research Methodology**: Peer-reviewed publication process
+- **Technical Communication**: Complex results presented to diverse audiences
+
+## 🔧 Repository Contents
+QCD_EOS_ML/
+├── figures/                    # Complete set of published research results
+│   ├── 1a,1b,1c_series/       # Zero-temperature analysis
+│   ├── 2a,2b,2c,2d_series/    # Multi-parameter studies
+│   ├── 3a,3b,3c,3d_series/    # High-temperature analysis
+│   ├── 4a,4b_series/          # Advanced correlations
+│   └── A1,A2_appendix/        # Extended parameter analysis
+├── ml_projects_showcase.py     # Comprehensive ML portfolio demo
+├── computational_showcase.py   # Research achievements showcase
+├── data/                      # Original computational results
+└── docs/                      # Technical documentation
+
+## 📧 Contact
+
+**Krishna Aryal** - Data Scientist | Georgia Tech MS Analytics | Published Researcher  
+🔗 **GitHub**: https://github.com/kraryal/QCD-Phase-Transitions-ML  
+🔗 **Research Portfolio**: https://kraryal.github.io/Resume_krishna/  
+🔗 **Publication**: https://doi.org/10.1103/PhysRevD.102.076016  
+🔗 **ArXiv**: https://arxiv.org/pdf/2004.03039  
+
+*Bringing breakthrough research excellence and proven ML expertise to senior data science challenges*
+
+---
+
+## 🎯 For Data Science Recruiters
+
+**Krishna Aryal** represents a rare combination:
+- **🔬 Published Research Innovation**: Breakthrough computational physics with peer validation
+- **🤖 Proven ML Expertise**: Real projects with quantified business impact (94% precision fraud detection)
+- **🎓 Advanced Education**: Georgia Tech MS Analytics with comprehensive technical training
+- **💼 Business Results**: Measurable ROI across healthcare, finance, and fraud detection
+- **🚀 Leadership Potential**: Technical depth + communication skills + innovation capability
+
+**Ready for Principal Data Scientist roles requiring both technical excellence and strategic thinking.**

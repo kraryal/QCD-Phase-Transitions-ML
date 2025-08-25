@@ -2,15 +2,16 @@
 
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-4.0+-blue.svg)](https://www.r-project.org/)
-[![Publications](https://img.shields.io/badge/publications-9-brightgreen.svg)](https://github.com/kraryal/QCD-Phase-Transitions-ML)
+[![Publications](https://img.shields.io/badge/publications-9-brightgreen.svg)](https://scholar.google.com/citations?user=fsWWqa0AAAAJ)
 [![Research](https://img.shields.io/badge/research-world--class-gold.svg)](https://doi.org/10.1103/PhysRevD.102.076016)
-
+[![Scholar](https://img.shields.io/badge/Google%20Scholar-Verified-blue.svg)](https://scholar.google.com/citations?user=fsWWqa0AAAAJ)
 ## 🏆 Elite Research Profile: 9 Publications + Advanced ML Expertise
 
-**World-class computational physicist with 9 peer-reviewed publications transitioning to data science through Georgia Tech MS Analytics. Unique combination of breakthrough research capability and proven industry ML applications.**
+**World-class computational physicist with 9 peer-reviewed publications (verified on Google Scholar) transitioning to data science through Georgia Tech MS Analytics. Unique combination of breakthrough research capability and proven industry ML applications.**
 
 ### 🎯 Unprecedented Value Proposition
-- **🔬 World-Class Research**: 9 publications in top-tier physics journals
+- **🔬 World-Class Research**: 9 publications with [X] citations (Google Scholar verified)
+- **📊 Research Impact**: Independent citation metrics proving analytical methodology influence
 - **🤖 Proven ML Expertise**: 94% precision fraud detection, healthcare analytics
 - **🎓 Advanced Education**: Georgia Tech MS Analytics (completing Fall 2025)
 - **💼 Business Impact**: Quantified results across finance, healthcare, fraud detection
@@ -62,13 +63,24 @@
 - **Cutting-Edge Work**: Most recent research contributions
 - **Open Science**: Contributing to global research community through open access
 
-### Research Impact Metrics
-- **Total Publications**: 9 peer-reviewed papers + thesis
-- **Journal Impact**: Physical Review D, Physics Letters B, European Physical Journal A (top-tier)
-- **International Recognition**: Conference presentations and invited talks
-- **Research Span**: 2020-2025 (5 years of sustained excellence)
-- **Citation Impact**: Computational methods cited and applied by global research community
-- **Cross-Domain Applications**: Physics → Astrophysics → Data Science
+## 📚 Complete Research Portfolio: 9 Publications
+
+### Academic Verification
+🔍 **All publications independently verified**: [Google Scholar Profile](https://scholar.google.com/citations?user=fsWWqa0AAAAJ)
+
+### Research Excellence Timeline (2020-2025)
+
+## 📊 Research Impact & Citation Metrics
+
+### Academic Credibility Verification
+🔗 **Google Scholar Profile**: https://scholar.google.com/citations?user=fsWWqa0AAAAJ
+
+**Research Impact Indicators:**
+- **Total Citations**: [68]
+- **H-Index**: [4]
+- **Publication Span**: 2020-2025 (sustained research excellence)
+- **Independent Verification**: All publications verified on Google Scholar
+- **Research Consistency**: Continuous publication record over 5 years
 
 ## 🤖 Advanced ML & Data Science Portfolio
 
@@ -177,16 +189,16 @@
 - **Technical Leadership**: Experience leading complex analytical projects from conception to publication
 - **Global Recognition**: International conference presentations and journal publications
 
-## 📧 Contact
+## 📧 Contact & Research Profile
 
 **Krishna Aryal** - Elite Research Scientist → Senior Data Scientist  
 🔗 **GitHub**: https://github.com/kraryal/QCD-Phase-Transitions-ML  
 🔗 **Research Portfolio**: https://kraryal.github.io/Resume_krishna/  
+🔗 **Google Scholar**: https://scholar.google.com/citations?user=fsWWqa0AAAAJ  
 🔗 **Key Publication**: https://doi.org/10.1103/PhysRevD.102.076016  
-🔗 **Google Scholar**: [Research Profile and Citations]  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/krishna-aryal1/]  
 
 *Bringing world-class research excellence and advanced analytical training to transformative data science leadership roles*
-
 ---
 
 ## 🎯 For Executive Recruiters & Data Science Leaders

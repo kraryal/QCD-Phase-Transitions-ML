@@ -193,7 +193,7 @@
 🔗 **Research Portfolio**: https://kraryal.github.io/Resume_krishna/  
 🔗 **Google Scholar**: https://scholar.google.com/citations?user=fsWWqa0AAAAJ  
 🔗 **Key Publication**: https://doi.org/10.1103/PhysRevD.102.076016
-🔗 **LinkedIn**: [https://www.linkedin.com/in/krishna-aryal1/]  
+🔗 **LinkedIn**: https://www.linkedin.com/in/krishna-aryal1/ 
 
 *Bringing world-class research excellence and advanced analytical training to transformative data science leadership roles*
 ---

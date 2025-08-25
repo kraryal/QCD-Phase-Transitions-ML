@@ -72,15 +72,12 @@
 
 ## 📊 Research Impact & Citation Metrics
 
-### Academic Credibility Verification
-🔗 **Google Scholar Profile**: https://scholar.google.com/citations?user=fsWWqa0AAAAJ
-
-**Research Impact Indicators:**
+- **Google Scholar Profile**: https://scholar.google.com/citations?user=fsWWqa0AAAAJ
 - **Total Citations**: [68]
 - **H-Index**: [4]
 - **Publication Span**: 2020-2025 (sustained research excellence)
 - **Independent Verification**: All publications verified on Google Scholar
-- **Research Consistency**: Continuous publication record over 5 years
+
 
 ## 🤖 Advanced ML & Data Science Portfolio
 
@@ -153,7 +150,7 @@
   *"Programming for analytics enhanced by multi-language computational research background"*
 
 #### Final Capstone (Fall 2025):
-- **CSE 6748**: Applied Analytics Practicum - A-Track
+- **CSE 6748**: Applied Analytics Practicum - A-Track (Fall 2025)
   *"Industry capstone project combining research excellence with business applications"*
 
 ## 🚀 Unprecedented Competitive Advantage
@@ -189,13 +186,13 @@
 - **Technical Leadership**: Experience leading complex analytical projects from conception to publication
 - **Global Recognition**: International conference presentations and journal publications
 
-## 📧 Contact & Research Profile
+## 📧 Contact
 
 **Krishna Aryal** - Elite Research Scientist → Senior Data Scientist  
 🔗 **GitHub**: https://github.com/kraryal/QCD-Phase-Transitions-ML  
 🔗 **Research Portfolio**: https://kraryal.github.io/Resume_krishna/  
 🔗 **Google Scholar**: https://scholar.google.com/citations?user=fsWWqa0AAAAJ  
-🔗 **Key Publication**: https://doi.org/10.1103/PhysRevD.102.076016  
+🔗 **Key Publication**: https://doi.org/10.1103/PhysRevD.102.076016
 🔗 **LinkedIn**: [https://www.linkedin.com/in/krishna-aryal1/]  
 
 *Bringing world-class research excellence and advanced analytical training to transformative data science leadership roles*

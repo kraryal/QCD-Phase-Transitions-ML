@@ -113,6 +113,21 @@
 - **Scalability**: Experience with computational systems handling massive datasets
 - **Architecture**: Database design informed by high-performance computing principles
 
+### 🦠 Advanced Pandemic Simulation & Policy Analysis
+![Pandemic Modeling](https://img.shields.io/badge/Project-Pandemic%20SIR%20Model-green)
+**Repository**: [Pandemic-Simulation-SIR-Model](https://github.com/kraryal/Pandemic-Simulation-SIR-Model)
+
+**Georgia Tech ISYE 6644 Project**: Sophisticated epidemiological modeling using SIR compartmental models for policy decision support. Features both Excel business analytics implementation and enhanced Python recreation with statistical validation.
+
+- **Advanced Statistical Modeling**: SIR differential equations with 99.2% model accuracy
+- **Multi-Platform Implementation**: Excel business tools + Python data science stack
+- **Monte Carlo Simulation**: Probabilistic analysis for classroom infection scenarios
+- **Policy Applications**: Public health decision support and resource planning
+- **Technical Stack**: Python, Excel, Statistical Modeling, Matplotlib, Monte Carlo Methods
+- **Key Results**: Day 24 infection peak, 507 maximum cases, 99.2% recovery rate
+
+**Business Applications**: Healthcare analytics, risk assessment, policy analysis, supply chain disruption modeling
+
 ## 🎓 Georgia Tech MS Analytics: Research Excellence + Industry Applications
 
 ### Advanced Coursework Enhancing Research Capabilities
